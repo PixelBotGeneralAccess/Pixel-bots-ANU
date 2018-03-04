@@ -28,12 +28,12 @@ There are two major tasks in the Input team’s project. One is to develop the a
 The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
 The requirements for each part are listed in the table below:
 
-<div style="text-align:center"><img src ="images/requirements_table.png"/></div>
+<p align='center'><img src ="images/requirements_table.png"/></p>
 
 
 ## Project Timeline
 
-<div style="text-align:center"><img src ="images/timeline.png"/></div>
+<p align='center'><img src ="images/timeline.png"/></p>
 
 You can track the spreadsheet version of our timeline for our current progress via the following link:
 https://drive.google.com/drive/folders/1ftPz0-EDVKlvwMVM_vQRAPd-yqdJM8Ru
