@@ -74,15 +74,11 @@ Our source code is stored at:
 https://github.com/Nikita1710/ANUFifty50-Online-Mentoring-Platform
 
 ### GOOGLE DRIVE
-1. Root Folder: https://drive.google.com/drive/folders/0B90o2KWKXkDqbWQ3clltaFdBVHc?usp=sharing
-2. Tutor Meetings: https://drive.google.com/drive/folders/0B90o2KWKXkDqbGk5eEI1eVJXMUk?usp=sharing
-3. Client Meetings: https://drive.google.com/drive/folders/0B90o2KWKXkDqVFU4Q012NGtQVW8?usp=sharing
-4. Team Meetings: https://drive.google.com/drive/folders/0B541nY2e_DZodlpEWnY5Tzh1M0E?usp=sharing
-5. Project Documents: https://drive.google.com/drive/folders/0Bw7MUyh12MoYSmVybWtVOS1GU2s?usp=sharing
-6. User Testing Documents : https://drive.google.com/drive/folders/0Bw7MUyh12MoYRno4VWNxVEtOaXc?usp=sharing
-7. Decision Paper : https://docs.google.com/document/d/1XtujnVUvyAoELIFgfqHR2vYqOldP2CBT82ymI5FR2tA/edit?usp=sharing
-8. Requirements Document: https://drive.google.com/open?id=1qKgYfd_GCYSdkY3e44BlUMY-dMn5Dcj8wFL-oyatUzU 
-9. Handover Documents: https://drive.google.com/drive/folders/0Bw7MUyh12MoYdmhWWDlEbnlMa2M?usp=sharing 
+1. Root Folder: https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE
+2. Tutor Meetings: https://drive.google.com/drive/folders/1QgvB4En2anAMBNLpiJ6aV1oIa1cbZK3A?usp=sharing
+3. Client Meetings: https://drive.google.com/open?id=1xPIl5xHOdwIqY9ny28ZxOdskIVeK-5FL
+4. Team Weekly Meetings: https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8
+5. Input/output Team Integration Meetings: https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87
 
 
 ## PROJECT OUTPUTS
