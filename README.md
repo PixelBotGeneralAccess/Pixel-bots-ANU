@@ -27,12 +27,11 @@ Our team uses Slack and Facebook Messenger for communication, and uses GitHub to
 There are two major tasks in the Input team’s project. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop a software to plan every robot’s path to form the shape drawn on the tablet. 
 The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
 The requirements for each part are listed in the table below:
-<img src="images/requirements_table.png" align="center">
 
+<div style="text-align:center"><img src ="images/requirements_table.png"/></div>
 ## Project Timeline
 
-<img src="images/timeline.png" align="centre">
-
+<div style="text-align:center"><img src ="images/timeline.png"/></div>
 
 
 
