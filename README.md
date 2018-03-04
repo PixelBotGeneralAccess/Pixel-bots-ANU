@@ -14,10 +14,10 @@ The project is to build an interactive picture drawing display for Questacon’s
 
 ## Team Members and Communications
 1. **Boyi Chen** - *Project Manager*
-2. **Ethan Stanbury** - *Robotics Lead*
-3. **Yuge Shi** - *Communicator/Robotics Assistance*
+2. **Ethan Stanbury** - *Software Lead*
+3. **Yuge Shi** - *Communicator/Software Assistance*
 4. **Mischa Rippon** - *App Developer*
-5. **Daniel Jang** - *Robotics Assistance*
+5. **Daniel Jang** - *Software Assistance*
 
 Our team uses Slack and Facebook Messenger for communication, and uses GitHub to store our software solutions. Most of our communications relating to the project is done through Slack, but Facebook Messenger serves as a good second alternative in case team members are unable to be reached via Slack. We have at least one team meetings every week to discuss and work on the project and to ensure we are fulfiling course requirements. We will use GitHub to work on our software, as GitHub provides great tools to aid the software development (such as issue tracking and commit history).
 
@@ -27,7 +27,7 @@ Our team uses Slack and Facebook Messenger for communication, and uses GitHub to
 There are two major tasks in the Input team’s project. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop a software to plan every robot’s path to form the shape drawn on the tablet. 
 The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
 The requirements for each part are listed in the table below:
-<img src="images/logo.png" align="center">
+<img src="images/requirements_table.png" align="center">
 
 ## Project Timeline
 
