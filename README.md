@@ -1,28 +1,37 @@
-# Pixel-bots-ANU
+# Pixel-bots
 
-<img src="project/static/static/Homepage/img/logo.png" width="100" height="100" align="left">
+<img src="images/logo.png" width="100" height="80" align="left">
 
-# ONLINE MENTORING PROGRAM PLATFORM
+# Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
 ## Introduction
+Our client Questacon is a government run centre that looks to promote greater understanding and awareness of science and technology within the community. Questacon’s approach on science education is to make it fun, interactive, and relevant. 
+
+The project is to build an interactive picture drawing display for Questacon’s upcoming AI and Robotics exhibit. This will be done to highlight and emphasize swarm mechanics to an audience. The way that this exhibit will adhere to Questacon’s educational values will be by creating a picture made up of bots in front of the user, based on a picture drawn by the user. The pattern can be multi-coloured with a pixel art style. Once completed we hope to create an effect that could almost considered ‘the picture coming to life’, due to the fast movement required to assemble the picture. With these features combined, it will create a fun and interactive display for people to use. 
+
 
 
 
 ## TEAM MEMBERS AND COMMUNICATIONS
 1. **Boyi Chen** - *Project Manager*
-2. **Ethan Stanbury** 
-3. **Yuge Shi**
-4. **Mischa Rippon**
-5. **Daniel Jang**
+2. **Ethan Stanbury** - *Robotics Lead*
+3. **Yuge Shi** - *Communicator/Robotics Assistance*
+4. **Mischa Rippon** - *App Developer*
+5. **Daniel Jang** - *Robotics Assistance*
 
 Our team uses Slack and Facebook Messenger for communication, and uses GitHub to store our software solutions. Most of our communications relating to the project is done through Slack, but Facebook Messenger serves as a good second alternative in case team members are unable to be reached via Slack. We have at least one team meetings every week to discuss and work on the project and to ensure we are fulfiling course requirements. We will use GitHub to work on our software, as GitHub provides great tools to aid the software development (such as issue tracking and commit history).
 
-## PROJECT DELIVERABLES
 
+
+## PROJECT REQUIREMENTS
+There are two major tasks in the Input team’s project. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop a software to plan every robot’s path to form the shape drawn on the tablet. 
+The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
+The requirements for each part are listed in the table below:
+<img src="images/logo.png" align="center">
 
 ## PROJECT TIMELINE
 
-
+<img src="images/timeline.png" align="center">
 
 ## HOW TO RUN THE PROJECT
 TBA
@@ -39,7 +48,7 @@ After the Week 3 audit, we created a decision paper document, which encompasses 
 ## DOCUMENTATION / TECHNICAL ARTEFACTS
 ### GITHUB REPOSITORY 
 Our source code is stored at: 
-https://github.com/Nikita1710/ANUFifty50-Online-Mentoring-Platform
+https://github.com/jerryboyichen/Pixel-bots-ANU
 
 ### GOOGLE DRIVE
 1. Root Folder: https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE
@@ -65,15 +74,10 @@ TBA
 TBA
 
 ## TOOLS USED
-1. Github for source code and version control.
-2. Slack for team and client communication.
-3. Google Drive for file management.
-4. Python and Django for backend development.
-5. Bootstrap, HTML, CSS and JavaScript for frontend development.
-6. MySQL to work as a database management system.
-7. ZenHub as an add-on to Github for managing both code-related and admin-related issues. 
+1. Github for source code and version control;
+2. Slack for team communication;
+3. Google Drive for documentation tracking.
 
 
-## CONTACT
-If you don't have access to any of the above links, please contact
-Nikita (u5830260@anu.edu.au) or Tyrus (u5800279@anu.edu.au) for access!
+
+
