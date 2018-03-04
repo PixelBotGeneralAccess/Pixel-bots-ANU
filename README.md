@@ -35,6 +35,8 @@ The requirements for each part are listed in the table below:
 
 <div style="text-align:center"><img src ="images/timeline.png"/></div>
 
+You can track the spreadsheet version of our timeline for our current progress via the following link:
+https://drive.google.com/drive/folders/1ftPz0-EDVKlvwMVM_vQRAPd-yqdJM8Ru
 
 
 ## Find Our Code & Documentations
