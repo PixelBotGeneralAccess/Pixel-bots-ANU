@@ -1,4 +1,4 @@
-# Pixel-bots
+# Pixel-bots Questacon
 
 <img src="images/logo.png" width="100" height="80" align="left">
 
@@ -12,7 +12,7 @@ The project is to build an interactive picture drawing display for Questacon’s
 
 
 
-## TEAM MEMBERS AND COMMUNICATIONS
+## Team Members and Communications
 1. **Boyi Chen** - *Project Manager*
 2. **Ethan Stanbury** - *Robotics Lead*
 3. **Yuge Shi** - *Communicator/Robotics Assistance*
@@ -23,55 +23,48 @@ Our team uses Slack and Facebook Messenger for communication, and uses GitHub to
 
 
 
-## PROJECT REQUIREMENTS
+## Project Requirements
 There are two major tasks in the Input team’s project. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop a software to plan every robot’s path to form the shape drawn on the tablet. 
 The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
 The requirements for each part are listed in the table below:
 <img src="images/logo.png" align="center">
 
-## PROJECT TIMELINE
+## Project Timeline
 
 <img src="images/timeline.png" align="center">
 
-## HOW TO RUN THE PROJECT
-TBA
 
 
-## PROJECT AUDIT REQUIREMENTS
-### VALUE DELIVERED TO OUR CLIENT SINCE THE LAST PROJECT AUDIT
-TBA
 
-### EFFECTIVE AND APPROPRIATE DECISION MAKING
-After the Week 3 audit, we created a decision paper document, which encompasses all the decisions that have been made since Week 1 of Semester 2. This was highlighted in the Week 6 Audit. Since then, this document has been updated and contains the decisions made by the team organised by weeks in which they were made. It indicates what decisions were made, when they were made and why they were made. The decision log can be found here: <a href="https://drive.google.com/open?id=1XtujnVUvyAoELIFgfqHR2vYqOldP2CBT82ymI5FR2tA">Decision Paper</a>
-
-
-## DOCUMENTATION / TECHNICAL ARTEFACTS
-### GITHUB REPOSITORY 
+## Code & Documentations
+### GitHub Repository 
 Our source code is stored at: 
 https://github.com/jerryboyichen/Pixel-bots-ANU
 
-### GOOGLE DRIVE
+### Google Drive
 1. Root Folder: https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE
 2. Tutor Meetings: https://drive.google.com/drive/folders/1QgvB4En2anAMBNLpiJ6aV1oIa1cbZK3A?usp=sharing
 3. Client Meetings: https://drive.google.com/open?id=1xPIl5xHOdwIqY9ny28ZxOdskIVeK-5FL
 4. Team Weekly Meetings: https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8
 5. Input/output Team Integration Meetings: https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87
 
-
-## PROJECT OUTPUTS
+## How To Run
 TBA
 
-## PROJECT APPROACH
-### DEVELOPMENT APPROACH
+
+## Project Audit Requirements
+### Critical Decisions Made Since Last Project Audit
 TBA
 
-### ENGAGING WITH STAKEHOLDERS
- we have met up with our client, MEETING MINUTES CAN BE FOUND HERE:
-
-
-
-### ACTING ON FEEDBACK
+### Values Delivered Since Last Project Audit
 TBA
+
+### Clients Engagement Since Last Project Audit
+TBA
+
+### Action on Feedback
+TBA
+
 
 ## TOOLS USED
 1. Github for source code and version control;
