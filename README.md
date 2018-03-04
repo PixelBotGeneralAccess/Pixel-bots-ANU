@@ -31,12 +31,12 @@ The requirements for each part are listed in the table below:
 
 ## Project Timeline
 
-<img src="images/timeline.png" align="center">
+<img src="images/timeline.png" align="centre">
 
 
 
 
-## Code & Documentations
+## Find Our Code & Documentations
 ### GitHub Repository 
 Our source code is stored at: 
 https://github.com/jerryboyichen/Pixel-bots-ANU
@@ -48,7 +48,8 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 4. Team Weekly Meetings: https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8
 5. Input/output Team Integration Meetings: https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87
 
-## How To Run
+
+## How To Run?
 TBA
 
 
@@ -66,10 +67,6 @@ TBA
 TBA
 
 
-## TOOLS USED
-1. Github for source code and version control;
-2. Slack for team communication;
-3. Google Drive for documentation tracking.
 
 
 
