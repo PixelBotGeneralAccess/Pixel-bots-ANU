@@ -29,6 +29,8 @@ The proof-of-concept column shows the requirements which are necessary for the p
 The requirements for each part are listed in the table below:
 
 <div style="text-align:center"><img src ="images/requirements_table.png"/></div>
+
+
 ## Project Timeline
 
 <div style="text-align:center"><img src ="images/timeline.png"/></div>
