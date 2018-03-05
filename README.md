@@ -58,7 +58,7 @@ Our source code is stored at:
 https://github.com/jerryboyichen/Pixel-bots-ANU
 
 ### Google Drive
-1. [Root Folder] (https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE) is where we store all the documentation of the project.
+1. [Root Folder](https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE) is where we store all the documentation of the project.
 2. [Tutor Meetings](https://drive.google.com/drive/folders/1QgvB4En2anAMBNLpiJ6aV1oIa1cbZK3A?usp=sharing) contains tutor meeting mintues for the project.
 3. [Client Meetings](https://drive.google.com/open?id=1xPIl5xHOdwIqY9ny28ZxOdskIVeK-5FL) contains information of the client meeting such as project requirements, deliverables, etc.
 4. [Team Weekly Meetings](https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8) contains our weekly meeting mintues. 
