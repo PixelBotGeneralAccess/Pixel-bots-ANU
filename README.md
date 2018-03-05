@@ -64,11 +64,11 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 4. [Team Weekly Meetings](https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8) contains our weekly meeting mintues. 
 5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
 
-###Tools for development of the software (tentative)
+
+### Tools for development of the software (tentative)
 * Android Studio <https://developer.android.com/studio/index.html>
 * Visual Studio <https://www.visualstudio.com>
 * Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
-
 
 
 
