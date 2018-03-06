@@ -64,10 +64,15 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
 
 ### Resource Identification
-| Cost Account      |       Resources    | Cost  |
-| ---------------|-------------| --------------|
-|Communication|Email, Slack, Facebook and Discord| Free|
-|^|sda|asda|
+<p align='center'><img src ="images/Resource Identification.png"/></p>
+
+### Risk Identification
+* Stakeholders become disengaged or fail to support project 
+* Delays due to learning curves of acquiring new skills
+* Scope is ill defined
+* Stakeholders have inaccurate expectations
+* Unforeseen and uncontrolled 
+
 
 ### Tools for software development (tentative)
 * Android Studio <https://developer.android.com/studio/index.html>
@@ -77,7 +82,7 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 
 
 ### NDA and IP Agreement
-Our team has expressed our concerns about NDA and IP agreement with client. Doug is going to discuss with the legal team at Questacon. 
+Our team has expressed our concerns about NDA and IP agreement with client. Doug is going to consult the legal team at Questacon. 
 Client requires that the repository to be private (not open to public). The repository will be available for all stakeholders mentioned from previous **Stakeholders** section. 
 
 ## Contact
