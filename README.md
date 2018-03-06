@@ -32,7 +32,7 @@ The requirements for each part are listed in the table below:
 <p align='center'><img src ="images/requirements_table.png"/></p>
 
 
-##Stakeholders
+## Stakeholders
 Stakeholder analysis was done and documented in our repository.
 
 * Client - Doug from Questacon
@@ -65,7 +65,7 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
 
 
-### Tools for development of the software (tentative)
+### Tools for software development (tentative)
 * Android Studio <https://developer.android.com/studio/index.html>
 * Visual Studio <https://www.visualstudio.com>
 * Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
