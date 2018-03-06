@@ -63,6 +63,11 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 4. [Team Weekly Meetings](https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8) contains our weekly meeting mintues. 
 5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
 
+### Resource Identification
+| Cost Account      |       Resources    | Cost  |
+| ---------------|-------------| --------------|
+|Communication|Email, Slack, Facebook and Discord| Free|
+|^|sda|asda|
 
 ### Tools for software development (tentative)
 * Android Studio <https://developer.android.com/studio/index.html>
