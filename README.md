@@ -1,10 +1,8 @@
-# Pixel-bots Questacon
-
 <img src="images/logo.png" width="100" height="80" align="left">
 
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
-##Background & Vision
+## Background & Vision
 Our client Questacon is a government run centre that looks to promote greater understanding and awareness of science and technology within the community. Questacon’s approach on science education is to make it fun, interactive, and relevant. 
 
 ## Introduction
@@ -76,8 +74,8 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 Our team has expressed our concerns about NDA and IP agreement with client. Doug is going to discuss with the legal team at Questacon. 
 Client requires that the repository to be private (not open to public). The repository will be available for all stakeholders mentioned from previous **Stakeholders** section. 
 
-##Contact
-If you are a member within any stakeholder groups and don't have access to any links above, please contact Boyi Chen (u5794300@anu.edu.au).
+## Contact
+If you are a member within any stakeholder groups and don't have access to any links above, please contact Boyi Chen by emaling  u5794300@anu.edu.au.
 
 
 
