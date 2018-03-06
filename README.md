@@ -33,7 +33,7 @@ The requirements for each part are listed in the table below:
 
 
 ## Stakeholders
-Stakeholder analysis was done and documented in our repository.
+Stakeholder analysis was done and documented in our [repository](https://drive.google.com/drive/folders/1vXUeWAJI2woFL61KtNDHRchhf66X0r6w?usp=sharing).
 
 * Client - Doug from Questacon
 * Input Team
