@@ -20,7 +20,9 @@ The project is to build an interactive picture drawing display for Questacon’s
 |Daniel Jang| Software Assistant| Assist in developing the software|
 
 
-Our team uses Slack and Facebook Messenger for communication, and uses GitHub to store our software solutions. Most of our communications relating to the project is done through Slack, but Facebook Messenger serves as a good second alternative in case team members are unable to be reached via Slack. We have at least one team meetings every week to discuss and work on the project and to ensure we are fulfiling course requirements. We will use GitHub to work on our software, as GitHub provides great tools to aid the software development (such as issue tracking and commit history).
+Our team uses Discord, Slack and Facebook Messenger for communication, and uses GitHub to store our software solutions. Most of our communications relating to the project is done through Slack, but Facebook Messenger serves as a good second alternative in case team members are unable to be reached via Slack. We have at least one team meetings every week to discuss and work on the project and to ensure we are fulfiling course requirements. We will use GitHub to work on our software, as GitHub provides great tools to aid the software development (such as issue tracking and commit history).
+
+We use email as our communication method with the Client representative.
 
 
 
@@ -35,7 +37,7 @@ The requirements for each part are listed in the table below:
 ## Stakeholders
 Stakeholder analysis was done and documented in our [repository](https://drive.google.com/drive/folders/1vXUeWAJI2woFL61KtNDHRchhf66X0r6w?usp=sharing).
 
-* Client - Doug from Questacon
+* Client - Doug Newton-Walters from Questacon
 * Input Team
 * Output Team
 * End Users
@@ -73,12 +75,15 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 * Stakeholders have inaccurate expectations
 * Unforeseen and uncontrolled 
 
+### Potential Cost
+The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. For our input team, we don't have significant 
 
 ### Tools for software development (tentative)
+The software development tools depends on the board using on our robots. Here are some potential development tools for us to consider:
+
 * Android Studio <https://developer.android.com/studio/index.html>
 * Visual Studio <https://www.visualstudio.com>
 * Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
-
 
 
 ### NDA and IP Agreement
