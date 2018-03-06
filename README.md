@@ -37,9 +37,8 @@ Stakeholder analysis was done and documented in our [repository](https://drive.g
 
 * Client - Doug from Questacon
 * Input Team
+* Output Team
 * End Users
-* Work & Health Team @ Questacon
-* Maintenance Team @ Questacon
 * Shadows
 * Tutors
 * Course Convenor
