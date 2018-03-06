@@ -46,7 +46,11 @@ Stakeholder analysis was done and documented in our [repository](https://drive.g
 * Course Convenor
 
 ## Project Timeline
+We have planned out our schedule for the project. The timeline below shows our milestone through the project process.
 
+<p aligh='center'><img src='images/milestone.png'/></p>
+
+We have also planned out our schedule for detailed tasks to reach our milestone. The Gantt Chart shows the time assigned to each task. The highlighs are explained in the chart. The green highlight means the finish-to-start process that the lower (shown in the chart) task will start as the upper task finishes.
 <p align='center'><img src ="images/timeline.png"/></p>
 
 You can track the spreadsheet version of our timeline for our current progress via the following link:
