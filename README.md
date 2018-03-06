@@ -4,8 +4,11 @@
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
 
-## Background & Vision
-Our client Questacon is a government run centre that looks to promote greater understanding and awareness of science and technology within the community. Questacon’s approach on science education is to make it fun, interactive, and relevant. 
+## Background & Questacon's Vision
+Questacon is The National Science and Technology Centre. It contains an enormous range of exhibits, shows, and activities designed to appeal to both adults and children alike, and inspire creativity and learning. Questacon’s purpose is to encourage curiosity and a desire to discover more. 
+
+Questacon had an idea for an exhibit that they really liked, to get robots forming user-defined shapes on a wall. However, they did not have excess people to bring their creation to life. This is where we come in, we were tasked with creating the bots and making them work for Questacon.
+
 
 ## Introduction
 The project is to build an interactive picture drawing display for Questacon’s upcoming AI and Robotics exhibit. This will be done to highlight and emphasize swarm mechanics to an audience. The way that this exhibit will adhere to Questacon’s educational values will be by creating a picture made up of bots in front of the user, based on a picture drawn by the user. The pattern can be multi-coloured with a pixel art style. Once completed we hope to create an effect that could almost considered ‘the picture coming to life’, due to the fast movement required to assemble the picture. With these features combined, it will create a fun and interactive display for people to use. 
