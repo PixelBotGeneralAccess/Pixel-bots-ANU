@@ -73,7 +73,7 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 * Delays due to learning curves of acquiring new skills
 * Scope is ill defined
 * Stakeholders have inaccurate expectations
-* Unforeseen and uncontrolled 
+* Unforeseen and uncontrolled situations
 
 ### Potential Cost
 The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. For our input team, we don't have significant 
