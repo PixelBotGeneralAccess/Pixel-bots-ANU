@@ -1,6 +1,6 @@
+# Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 <img src="images/logo.png" width="100" height="80" align="left">
 
-# Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
 ## Background & Vision
 Our client Questacon is a government run centre that looks to promote greater understanding and awareness of science and technology within the community. Questacon’s approach on science education is to make it fun, interactive, and relevant. 
