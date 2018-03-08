@@ -3,6 +3,9 @@
 
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
+## Acknowledgement
+
+
 
 ## Background & Questacon's Vision
 Questacon is The National Science and Technology Centre. It contains an enormous range of exhibits, shows, and activities designed to appeal to both adults and children alike, and inspire creativity and learning. Questacon’s purpose is to encourage curiosity and a desire to discover more. 
@@ -91,6 +94,7 @@ The software development tools depends on the board using on our robots. Here ar
 * Android Studio <https://developer.android.com/studio/index.html>
 * Visual Studio <https://www.visualstudio.com>
 * Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
+* Platformio <https://platformio.org>
 
 
 ### NDA and IP Agreement
