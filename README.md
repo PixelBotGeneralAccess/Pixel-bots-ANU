@@ -4,7 +4,7 @@
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
 ## Acknowledgement
-
+Here to acknowledge the great work of the  ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on theirs as template. 
 
 
 ## Background & Questacon's Vision
@@ -62,6 +62,10 @@ We have also planned out our schedule for detailed tasks to reach our milestone.
 You can track the spreadsheet version of our timeline for our current progress via the following link:
 https://drive.google.com/drive/folders/1ftPz0-EDVKlvwMVM_vQRAPd-yqdJM8Ru
 
+## Action List
+We have built a Google Sheet to record assigned actions of each week's task of the project.
+Head to our action list: <https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing>
+
 
 ## Find Our Code & Documentations
 ### GitHub Repository 
@@ -95,6 +99,13 @@ The software development tools depends on the board using on our robots. Here ar
 * Visual Studio <https://www.visualstudio.com>
 * Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
 * Platformio <https://platformio.org>
+
+### Tools for documentation
+We use following tools to document and manage our progress:
+
+* Google Drive <https://www.google.com/drive/>
+* Google Doc <https://docs.google.com/>
+* TimeGraphisc <https://time.graphics>
 
 
 ### NDA and IP Agreement
