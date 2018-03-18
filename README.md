@@ -3,6 +3,11 @@
 
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
+## Update
+* Android app is being developed.
+* Client's legal team is still working on the NDA and IP agreement.
+* We are visiting Questacon on 20th March to meet relevant stakeholders.
+
 ## Acknowledgement
 Here to acknowledge the great work of the  ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on theirs as template. 
 
@@ -90,15 +95,15 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 * Unforeseen and uncontrolled situations
 
 ### Potential Cost
-The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. For our input team, we don't have significant 
+The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. For our input team, we don't have significant cost.
 
 ### Tools for software development (tentative)
 The software development tools depends on the board using on our robots. Here are some potential development tools for us to consider:
 
 * Android Studio <https://developer.android.com/studio/index.html>
-* Visual Studio <https://www.visualstudio.com>
 * Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
 * Platformio <https://platformio.org>
+* Github <https://github.com>
 
 ### Tools for documentation
 We use following tools to document and manage our progress:
@@ -113,7 +118,7 @@ Our team has expressed our concerns about NDA and IP agreement with client. Doug
 Client requires that the repository to be private (not open to public). The repository will be available for all stakeholders mentioned from previous **Stakeholders** section. 
 
 ## Contact
-If you are a member within any stakeholder groups and don't have access to any links above, please contact Boyi Chen by emaling  u5794300@anu.edu.au.
+If you are a member within any stakeholder groups and don't have access to any links above, please contact Boyi Chen by emaling  u5794300@anu.edu.au or Ethan Stanbury u6048363@anu.edu.au
 
 
 
