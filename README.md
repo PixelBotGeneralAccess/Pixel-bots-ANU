@@ -3,10 +3,12 @@
 
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
 
-## Update
-* Android app is being developed.
+## Update (since week 3)
+* First integration meeting was held and some bondaries between two teams were set.
+* Visited Client and relevant stakeholders such as WHS and maintenance team in Questacon.
+* Android app is being developed. Client has done a simple test in the app.
 * Client's legal team is still working on the NDA and IP agreement.
-* We are visiting Questacon on 20th March to meet relevant stakeholders.
+* Two teams reached an agreement that we are using C for programming. 
 
 ## Acknowledgement
 Here to acknowledge the great work of the  ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on theirs as template. 
@@ -79,9 +81,9 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 
 ### Google Drive
 1. [Root Folder](https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE) is where we store all the documentation of the project.
-2. [Tutor Meetings](https://drive.google.com/drive/folders/1QgvB4En2anAMBNLpiJ6aV1oIa1cbZK3A?usp=sharing) contains tutor meeting mintues for the project.
-3. [Client Meetings](https://drive.google.com/open?id=1xPIl5xHOdwIqY9ny28ZxOdskIVeK-5FL) contains information of the client meeting such as project requirements, deliverables, etc.
-4. [Team Weekly Meetings](https://drive.google.com/open?id=1QMasybzRh-uwbFAWl5xqPoCUiwzv2rZ8) contains our weekly meeting mintues. 
+2. [Meeting Minutes] (https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
+3. [Decision Making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) is where we put decision/direction-making documents.
+4. [Newsletter](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to client. 
 5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
 
 ### Resource Identification
