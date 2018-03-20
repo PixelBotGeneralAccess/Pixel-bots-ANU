@@ -81,7 +81,7 @@ https://github.com/jerryboyichen/Pixel-bots-ANU
 
 ### Google Drive
 1. [Root Folder](https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE) is where we store all the documentation of the project.
-2. [Meeting Minutes] (https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
+2. [Meeting Minutes](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
 3. [Decision Making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) is where we put decision/direction-making documents.
 4. [Newsletter](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to client. 
 5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
