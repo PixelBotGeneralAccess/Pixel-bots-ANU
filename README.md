@@ -42,9 +42,30 @@ We use email as our communication method with the Client representative.
 ## Project Requirements
 There are two major tasks in the Input team’s project. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop a software to plan every robot’s path to form the shape drawn on the tablet. 
 The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
-The requirements for each part are listed in the table below:
 
-<p align='center'><img src ="images/requirements_table.png"/></p>
+We analysed and ranked the importance of customer requirements using weighted pairwise analysis. These requirements, ranked from most important to least, are as follows:
+1. Able to sketch a shape on the app;
+2. Able to control the robot with the app;
+3. Bots are able to form user's sketch;
+4. Bots are able to form user's sketch in a timely manner;
+5. Users are able to sketch meaningful, recognisable shapes within the app;
+6. The exhibition is easy to maintain for Questacon;
+7. The user interface is easy to use for all age groups;
+8. The exhibition is fun for kids to play with;
+9. The exhibition is able to attract tourist's attention.
+
+Based on the customer requirements and their relative importance, we determined the design specifications that needs to be fullfilled in the proof-of-concept prototype. These specifications are:
+1. Drawing function in the app;
+2. High resolution of the virtual canvas in the app;
+3. Coloring function in the app;
+4. Software embedded on robot is able to receive and respond to the command sent from the tablet;
+5. The software is able to assign a destination for one robot based on the sketch;
+6. The robot is able to move to the assigned destination following the shortest route determined by the software.
+
+You can check out our customer requirement analysis process by clicking [here](https://drive.google.com/open?id=188l2xUbo27ozwwJaAbWa1InSsLQSRa3M).
+
+
+
 
 
 ## Stakeholders
@@ -63,32 +84,31 @@ We have planned out our schedule for the project. The timeline below shows our m
 
 <p aligh='center'><img src='images/milestone.png'/></p>
 
-We have also planned out our schedule for detailed tasks to reach our milestone. The Gantt Chart shows the time assigned to each task. The highlighs are explained in the chart. The green highlight means the finish-to-start process that the lower (shown in the chart) task will start as the upper task finishes.
-<p align='center'><img src ="images/timeline.png"/></p>
+Please click on the links to check our current progress with our regularly updated [timeline](https://drive.google.com/open?id=1OLIpS2ewFZ1FbnKtZtL0Le3hvYBNkBXM) and [milestone](https://drive.google.com/open?id=1Gs3jpNLIOIzp9LHkx_a9XZvmUAc5WDXcSTUDubNdeIw) tracker.
 
-You can track the spreadsheet version of our timeline for our current progress via the following link:
-https://drive.google.com/drive/folders/1ftPz0-EDVKlvwMVM_vQRAPd-yqdJM8Ru
 
 ## Action List
-We have built a Google Sheet to record assigned actions of each week's task of the project.
-Head to our action list: <https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing>
+We are logging all the actionable items and assigned team member in an action list. Click [here](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing) to access.
+
 
 
 ## Find Our Code & Documentations
 ### GitHub Repository 
-Our source code is stored at: 
-https://github.com/jerryboyichen/Pixel-bots-ANU
+The source code is stored at a private Github repository. Since our project host Questacon is funded by the Australian government, we regrettably cannot make the source code public due to the non-disclosure agreement. 
+
+If you are a member of this project (or a member of the shadow team) and wish to access the code, please email us with the contact information available at the bottom of this page.
 
 ### Google Drive
-1. [Root Folder](https://drive.google.com/open?id=1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE) is where we store all the documentation of the project.
+1. [Root Folder](https://drive.google.com/drive/folders/1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE?usp=sharing) is where we store all the documentation of the project.
 2. [Meeting Minutes](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
 3. [Decision Making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) is where we put decision/direction-making documents.
 4. [Newsletter](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to client. 
-5. [Input/output Team Integration Meetings](https://drive.google.com/open?id=17hAL3vyZUWkxl5sNfAlr0Oqf4uwvtK87) records the information of the Project Teams meeting.
+5. [System Analysis](https://drive.google.com/drive/folders/1XArUTUV-0j7SljJ2G1VgrZgR6X-zXcWt?usp=sharing) is a folder where we store the design analysis for the project, including stakeholder analysis, functional diagram, requirements, milestones etc
+6. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
 
 ### Resource Identification
-<p align='center'><img src ="images/Resource Identification.png"/></p>
-
+<p align='center'><img src ="images/Resource Identification.png" width="200" height="200" />
+  
 ### Risk Identification
 * Stakeholders become disengaged or fail to support project 
 * Delays due to learning curves of acquiring new skills
