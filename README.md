@@ -107,7 +107,15 @@ If you are a member of this project (or a member of the shadow team) and wish to
 6. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
 
 ### Resource Identification
-<p align='center'><img src ="images/Resource Identification.png" width="500" height="200" />
+| Cost Account       |       Resources     | Cost/Source  |
+| ---------------|-------------| --------------|
+| Communication    |Email, Slack, Facebook, Discord <br/> text messages and phone calls  | Individual phone plan |
+| Android app development     | Android Studio     | Free |
+| Path-planning algorithm development| Android Studio    | Free|
+| Control development |Platformio| Free| 
+| App testing | Samsung tablet| Provided by client|
+| Simulation testing | Free robotics simulation software (TBA) | Free|
+| Proof-of-concept testing | Venue with vertical wall | Free (provided by ANU) |
   
 ### Risk Identification
 * Stakeholders become disengaged or fail to support project 
