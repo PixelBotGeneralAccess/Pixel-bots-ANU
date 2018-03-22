@@ -1,10 +1,11 @@
-# Pixel-bots Project (Input Team)
 <img src="images/logo.png" width="100" height="80" align="left">
 
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
-*_The rose is red, 
-the violet's blue.
-Our bots go on walls like they know Kung Fu._*
+_*The rose is red,*_
+
+_*the violet's blue.*_
+
+_*Our bots go on walls like they know Kung Fu.*_
 
 ## What's New
 *Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed.
