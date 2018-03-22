@@ -1,5 +1,5 @@
-<img src="images/logo.png" width="100" height="80" align="left">
-# Pixel-bots interactive demonstration for Questacon in Canberra, Australia
+# Pixel-bots interactive demonstration for Questacon in Canberra, Australia (input team)
+
 
 _*The rose is red,*_
 
