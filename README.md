@@ -107,7 +107,7 @@ If you are a member of this project (or a member of the shadow team) and wish to
 6. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
 
 ### Resource Identification
-<p align='center'><img src ="images/Resource Identification.png" width="200" height="200" />
+<p align='center'><img src ="images/Resource Identification.png" width="500" height="200" />
   
 ### Risk Identification
 * Stakeholders become disengaged or fail to support project 
