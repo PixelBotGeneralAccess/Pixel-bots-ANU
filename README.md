@@ -2,13 +2,17 @@
 <img src="images/logo.png" width="100" height="80" align="left">
 
 # Pixel-bots interactive demonstration for Questacon in Canberra, Australia
+*_The rose is red, 
+the violet's blue.
+Our bots go on walls like they know Kung Fu._*
 
-## Update (since week 3)
-* First integration meeting was held and some bondaries between two teams were set.
-* Visited Client and relevant stakeholders such as WHS and maintenance team in Questacon.
-* Android app is being developed. Client has done a simple test in the app.
-* Client's legal team is still working on the NDA and IP agreement.
-* Two teams reached an agreement that we are using C for programming. 
+## What's New
+*Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed.
+*To facilitate collaboration, regular, effective communcation plan with the output team is set up and being enforced. Each team is well informed on the progress of the other team, which makes decision-making a lot more efficient.
+*We visited Client on site (in Questacon) and discussed relevant issues with tech, design and maintenance team (click [here] for the trip log). We inspected the possible location for the exhibition we are working on, and also had the chance to experience the culture of Questacon during the toor. We were also given an elaborated introduction to the work health and safety regulation that the organisation has been following. This provided contributive insights to the design of the system.
+*Client's legal team is still working on the NDA and IP agreement.
+*We reached an agreement with the output team that C will be used for programming. The output team is still working out the optimal choice for micro-processor, but they have narrowed the selections down to mainly the Arduino family.
+
 
 ## Acknowledgement
 Here to acknowledge the great work of the  ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on theirs as template. 
@@ -30,7 +34,7 @@ The project is to build an interactive picture drawing display for Questacon’s
 | Ethan Stanbury      | Software Lead     |Overseas the software development and provides technical supports for the team|
 | Yuge Shi| Communicator/Software Assistant    | Communicates with output team and integrates both teams' work|
 |Mischa Rippon|App Developer| Develops an Android app for client| 
-|Daniel Jang| Software Assistant| Assist in developing the software|
+|Daniel Jang| Software Assistant| Assist and provide his technical expertise with the creation of the software|
 
 
 Our team uses Discord, Slack and Facebook Messenger for communication, and uses GitHub to store our software solutions. Most of our communications relating to the project is done through Slack, but Facebook Messenger serves as a good second alternative in case team members are unable to be reached via Slack. We have at least one team meetings every week to discuss and work on the project and to ensure we are fulfiling course requirements. We will use GitHub to work on our software, as GitHub provides great tools to aid the software development (such as issue tracking and commit history).
@@ -40,8 +44,8 @@ We use email as our communication method with the Client representative.
 
 
 ## Project Requirements
-There are two major tasks in the Input team’s project. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop a software to plan every robot’s path to form the shape drawn on the tablet. 
-The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
+
+There are two major tasks in the Input team’s project portfolio. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop software that plans every robot’s path to form the shape that is drawn on the tablet. The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
 
 We analysed and ranked the importance of customer requirements using weighted pairwise analysis. These requirements, ranked from most important to least, are as follows:
 1. Able to sketch a shape on the app;
@@ -54,7 +58,7 @@ We analysed and ranked the importance of customer requirements using weighted pa
 8. The exhibition is fun for kids to play with;
 9. The exhibition is able to attract tourist's attention.
 
-Based on the customer requirements and their relative importance, we determined the design specifications that needs to be fullfilled in the proof-of-concept prototype. These specifications are:
+Based on the customer requirements and their relative importance, we determined the design specifications that need to be fulfilled in the proof-of-concept prototype. These specifications are:
 1. Drawing function in the app;
 2. High resolution of the virtual canvas in the app;
 3. Coloring function in the app;
@@ -131,7 +135,6 @@ The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. 
 The software development tools depends on the board using on our robots. Here are some potential development tools for us to consider:
 
 * Android Studio <https://developer.android.com/studio/index.html>
-* Buzz: A Programming language designed for robot swarms <http://the.swarming.buzz>
 * Platformio <https://platformio.org>
 * Github <https://github.com>
 
