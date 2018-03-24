@@ -6,7 +6,7 @@ _*Roses are red,*_
 
 _*Violets are blue.*_
 
-_*Our bots run on walls like they know Kung Fu.*_
+_*Our bots run on walls, like they know Kung Fu.*_
 
 ## What's New
 * Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed.
