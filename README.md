@@ -2,11 +2,11 @@
 
 <img src="images/logo.png" width="100" height="100" align="left">
 
-_*The rose is red,*_
+_*Roses are red,*_
 
-_*the violet's blue.*_
+_*Violets are blue.*_
 
-_*Our bots go on walls like they know Kung Fu.*_
+_*Our bots run on walls like they know Kung Fu.*_
 
 ## What's New
 * Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed.
