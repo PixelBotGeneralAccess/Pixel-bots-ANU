@@ -48,7 +48,7 @@ We use email as our communication method with the Client representative.
 
 ## Deliverables
 Three main deliverables are identified in our project:
-1. **App** that operates on Samsung tablet provided by client;
+1. **App** that allows users to draw shapes by coloring the pixels and can run on Samsung tablet provided by client;
 2. **Algorithm** that plans and controls movements of the robot based on input to the App;
 3. **System architecture document** with system analysis to support all decisions made (necessary to a smooth handover).
 
