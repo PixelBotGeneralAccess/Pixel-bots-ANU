@@ -9,15 +9,16 @@ _*Violets are blue.*_
 _*Our bots run on walls, like they know Kung Fu.*_
 
 ## What's New
-* Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed.
-* To facilitate collaboration, regular, effective communcation plan with the output team is set up and being enforced. Each team is well informed on the progress of the other team, which makes decision-making a lot more efficient.
-* We visited Client on site (in Questacon) and discussed relevant issues with tech, design and maintenance team (click [here] for the trip log). We inspected the possible location for the exhibition we are working on, and also had the chance to experience the culture of Questacon during the toor. We were also given an elaborated introduction to the work health and safety regulation that the organisation has been following. This provided contributive insights to the design of the system.
+* Our team want to express our sincere gratitude and appreciation to all the very constructive and actionable feedback from our TechLauncher shadow team, tutor and course convenor after Audit 1. We compiled a [document](https://docs.google.com/document/d/1z5DeOgn_0CZxadRM5SfdfGSV1UfgkbDnUfge8M-djUM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and our actions taken to address them.
+* Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed. The logo above is drawn in the App by our Android developer Mischa.
+* To facilitate collaboration, regular, effective communcation plan with the output team is set up and being enforced. Each team is well informed on the progress of the other team, which makes decision-making a lot more efficient. Click [here](https://drive.google.com/drive/folders/1EBkIZeMerqrHnTHzfZM0X7Paddm5Tu38?usp=sharing) to have a look at the details of our integration meetings.
+* We visited Client on site (in Questacon) and discussed relevant issues with tech, design and maintenance team (click [here](https://drive.google.com/open?id=1e7EAtb0zLgqGCjFnDPgSJaEmhuzvVeCQrM0EL40atIU) for the trip log). We inspected the possible location for the exhibition we are working on, and also had the chance to experience the culture of Questacon during the toor. We were also given an elaborated introduction to the work health and safety regulation that the organisation has been following. This provided contributive insights to the design of the system.
 * Client's legal team is still working on the NDA and IP agreement.
- *We reached an agreement with the output team that C will be used for programming. The output team is still working out the optimal choice for micro-processor, but they have narrowed the selections down to mainly the Arduino family.
+* We reached an agreement with the output team that C will be used for programming. The output team is still working out the optimal choice for micro-processor, but they have narrowed the selections down to mainly the Arduino family.
 
 
 ## Acknowledgement
-Here to acknowledge the great work of the  ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on theirs as template. 
+Here to acknowledge the great work of the ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on as template. 
 
 
 ## Background & Questacon's Vision
