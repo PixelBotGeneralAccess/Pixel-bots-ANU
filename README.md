@@ -11,9 +11,10 @@ _*Our bots run on walls, like they know Kung Fu.*_
 ## What's New
 * Our team want to express our sincere gratitude and appreciation to all the very constructive and actionable feedback from our TechLauncher shadow team, tutor and course convenor after Audit 1. We compiled a [document](https://docs.google.com/document/d/1z5DeOgn_0CZxadRM5SfdfGSV1UfgkbDnUfge8M-djUM/edit?usp=sharingg) (click on link to view) summarizing all the feedback we have received and our actions taken to address them.
 * Android app development is well underway, with drawing, coloring and reseting function performing as expected. The app passed a simple test the client proposed. The logo above is drawn in the App by our Android developer Mischa.
+* We have identified and assessed risks of the project. The analysis can be found [here](https://drive.google.com/open?id=1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO).
 * To facilitate collaboration, regular, effective communcation plan with the output team is set up and being enforced. Each team is well informed on the progress of the other team, which makes decision-making a lot more efficient. Click [here](https://drive.google.com/drive/folders/1EBkIZeMerqrHnTHzfZM0X7Paddm5Tu38?usp=sharing) to have a look at the details of our integration meetings.
-* To more effectively track the progress of our project and work assigned to each team member, we created interactive sheets such as [action list](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing), [milestone tracker](https://docs.google.com/spreadsheets/d/1Gs3jpNLIOIzp9LHkx_a9XZvmUAc5WDXcSTUDubNdeIw/edit?usp=sharing) and [timeline tracker](https://drive.google.com/file/d/1OLIpS2ewFZ1FbnKtZtL0Le3hvYBNkBXM/view?usp=sharing).
-* We visited Client on site (in Questacon) and discussed relevant issues with tech, design and maintenance team (click [here](https://drive.google.com/open?id=1e7EAtb0zLgqGCjFnDPgSJaEmhuzvVeCQrM0EL40atIU) for the trip log). We inspected the possible location for the exhibition we are working on, and also had the chance to experience the culture of Questacon during the toor. We were also given an elaborated introduction to the work health and safety regulation that the organisation has been following. This provided contributive insights to the design of the system.
+* To more effectively track the progress of our project and work assigned to each team member, we created interactive sheets such as [action list](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing), [milestone tracker](https://docs.google.com/spreadsheets/d/1Gs3jpNLIOIzp9LHkx_a9XZvmUAc5WDXcSTUDubNdeIw/edit?usp=sharing) and [timeline tracker](https://docs.google.com/spreadsheets/d/1Wzz1CrSvFIW3_DlKV93lR2b0l7EzAkRV3A5If5ZLcCI/edit?usp=sharing).
+* We visited Client on site (in Questacon) and discussed relevant issues with tech, design and maintenance team (click [here](https://drive.google.com/open?id=1e7EAtb0zLgqGCjFnDPgSJaEmhuzvVeCQrM0EL40atIU) for the trip log). We inspected the possible location for the exhibition we are working on, and also had the chance to experience the culture of Questacon during the tour. We were also given an elaborated introduction to the work health and safety regulation that the organisation has been following. This provided contributive insights to the design of the system.
 * Client's legal team is still working on the NDA and IP agreement.
 * We reached an agreement with the output team that C will be used for programming. The output team is still working out the optimal choice for micro-processor, but they have narrowed the selections down to mainly the Arduino family.
 
@@ -92,7 +93,7 @@ We have planned out our schedule for the project. The timeline below shows our m
 
 <p aligh='center'><img src='images/milestone.png'/></p>
 
-Please click on the links to check our current progress with our regularly updated [timeline](https://drive.google.com/open?id=1OLIpS2ewFZ1FbnKtZtL0Le3hvYBNkBXM) and [milestone](https://drive.google.com/open?id=1Gs3jpNLIOIzp9LHkx_a9XZvmUAc5WDXcSTUDubNdeIw) tracker.
+Please click on the links to check our current progress with our regularly updated [timeline](https://docs.google.com/spreadsheets/d/1Wzz1CrSvFIW3_DlKV93lR2b0l7EzAkRV3A5If5ZLcCI/edit?usp=sharing) and [milestone](https://drive.google.com/open?id=1Gs3jpNLIOIzp9LHkx_a9XZvmUAc5WDXcSTUDubNdeIw) tracker.
 
 
 ## Action List
@@ -125,12 +126,6 @@ If you are a member of this project (or a member of the shadow team) and wish to
 | Simulation testing | Free robotics simulation software (TBA) | Free|
 | Proof-of-concept testing | Venue with vertical wall | Free (provided by ANU) |
   
-### Risk Identification
-* Stakeholders become disengaged or fail to support project 
-* Delays due to learning curves of acquiring new skills
-* Scope is ill defined
-* Stakeholders have inaccurate expectations
-* Unforeseen and uncontrolled situations
 
 ### Potential Cost
 The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. For our input team, we don't have significant cost.
