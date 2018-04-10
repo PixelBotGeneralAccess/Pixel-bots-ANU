@@ -24,13 +24,13 @@ Here to acknowledge the great work of the ANU FIFTY50 Online Mentoring Platform 
 
 
 ## Background & Questacon's Vision
-Questacon is The National Science and Technology Centre located in Canberra, Australia. The facility, administered within the Australian Government Department of Industry, Innovation and Science, is home to a range of innovative exhibits, shows, and activities designed appealing to people in all age groups. 
+Questacon is The National Science and Technology Centre located in Canberra, Australia. The facility, administered within the Australian Government's Department of Industry, Innovation and Science, is home to a range of innovative exhibits, shows, and activities designed appealing to people of all ages. 
 
 Questacon seeks to promote awareness and interests in science and technology within the community. We are providing a system that uses robotics to create compelling visual displays for Questacon's audience to engage with.
 
 
 ## Introduction
-The project is to build an interactive picture drawing display for Questacon’s upcoming AI and Robotics exhibit. This will be done to highlight and emphasize swarm mechanics to an audience. The way that this exhibit will adhere to Questacon’s educational values will be by creating a picture made up of bots in front of the user, based on a picture drawn by the user. The pattern can be multi-coloured with a pixel art style. Once completed we hope to create an effect that could almost considered ‘the picture coming to life’, due to the fast movement required to assemble the picture. With these features combined, it will create a fun and interactive display for people to use. 
+The project is to build an interactive picture drawing display for Questacon’s upcoming AI and Robotics exhibit. This will be done to highlight and emphasize swarm mechanics to an audience. The way that this exhibit will adhere to Questacon’s educational values will be by creating a picture made up of bots in front of the user, based on a picture drawn by the user. The pattern can be multi-coloured with a pixel art style. Once completed we hope to create an effect that could almost be considered ‘the picture coming to life’, due to the fast movement required to assemble the picture. With these features combined, it will create a fun and interactive display for people to use and enjoy. 
 
 ## Team Members and Communications
 | Name       |       Role     | Description  |
