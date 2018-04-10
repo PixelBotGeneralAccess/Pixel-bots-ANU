@@ -24,9 +24,9 @@ Here to acknowledge the great work of the ANU FIFTY50 Online Mentoring Platform 
 
 
 ## Background & Questacon's Vision
-Questacon is The National Science and Technology Centre. It contains an enormous range of exhibits, shows, and activities designed to appeal to both adults and children alike, and inspire creativity and learning. Questacon’s purpose is to encourage curiosity and a desire to discover more. 
+Questacon is The National Science and Technology Centre located in Canberra, Australia. The facility, administered within the Australian Government Department of Industry, Innovation and Science, is home to a range of innovative exhibits, shows, and activities designed appealing to people in all age groups. 
 
-Questacon had an idea for an exhibit that they really liked, to get robots forming user-defined shapes on a wall. However, they did not have excess people to bring their creation to life. This is where we come in, we were tasked with creating the bots and making them work for Questacon.
+Questacon seeks to promote awareness and interests in science and technology within the community. We are providing a system that uses robotics to create compelling visual displays for Questacon's audience to engage with.
 
 
 ## Introduction
