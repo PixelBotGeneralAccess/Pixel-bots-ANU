@@ -13,6 +13,7 @@ _*Our bots run on walls, like they know Kung Fu.*_
 * Click on the links to view our most up to date [system requirement document V2.1](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) and [system architecture document V3.0](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV). We will discuss the details of these documents with our client on 3th May.
 * All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
 * The team has signed the IP agreement and has received a confirmation from the dean of student. We are now waiting for the signature from ANU before we can forward the agreement to our client.
+* After much research and discussion with the output team, we decided to choose Bluetooth as the communication tool between the software and hardware part of the system. Relevant research documents can be found [here](https://docs.google.com/document/d/1Xd52FfzE8CCT6KR1VAp7FKMdvjWYmW6_B3Rt2MJbEb8/edit).
 * We are now in the process of preparing our handover document.
 
 
@@ -47,34 +48,13 @@ We use email as our communication method with the Client representative.
 
 ## Deliverables
 Three main deliverables are identified in our project:
-1. **App** that allows users to draw shapes by coloring the pixels and can run on Samsung tablet provided by client;
+1. **User Interface** that allows users to draw shapes by coloring the pixels and can run on Samsung tablet provided by client;
 2. **Algorithm** that plans and controls movements of the robot based on input to the App;
-3. **System architecture document** with system analysis to support all decisions made (necessary to a smooth handover).
+3. **Relevant documentations** with system analysis and requirement definitions to support all decisions made. The information shall suffice for a smooth handover.
 
 ## Project Requirements
 
-There are two major tasks in the Input team’s project portfolio. One is to develop the app on an Android tablet such that children can draw an image on it. Another is to develop software that plans every robot’s path to form the shape that is drawn on the tablet. The proof-of-concept column shows the requirements which are necessary for the proof-of-concept at the end of the semester (as this project will likely take the whole year). These are the highest priority to be completed, but we will attempt to complete as many of the goals as possible in the time frame.
-
-We analysed and ranked the importance of customer requirements using weighted pairwise analysis. These requirements, ranked from most important to least, are as follows:
-1. Able to sketch a shape on the app;
-2. Able to control the robot with the app;
-3. Bots are able to form user's sketch;
-4. Bots are able to form user's sketch in a timely manner;
-5. Users are able to sketch meaningful, recognisable shapes within the app;
-6. The exhibition is easy to maintain for Questacon;
-7. The user interface is easy to use for all age groups;
-8. The exhibition is fun for kids to play with;
-9. The exhibition is able to attract tourist's attention.
-
-Based on the customer requirements and their relative importance, we determined the design specifications that need to be fulfilled in the proof-of-concept prototype. These specifications are:
-1. Drawing function in the app;
-2. High resolution of the virtual canvas in the app;
-3. Coloring function in the app;
-4. Software embedded on robot is able to receive and respond to the command sent from the tablet;
-5. The software is able to assign a destination for one robot based on the sketch;
-6. The robot is able to move to the assigned destination following the shortest route determined by the software.
-
-You can check out our customer requirement analysis process by clicking [here](https://drive.google.com/open?id=188l2xUbo27ozwwJaAbWa1InSsLQSRa3M).
+The newest version of project requirements can be found [here](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV).
 
 
 
