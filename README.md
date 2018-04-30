@@ -9,14 +9,13 @@ _*Violets are blue.*_
 _*Our bots run on walls, like they know Kung Fu.*_
 
 ## What's New
-* A feedback review [document](https://docs.google.com/document/d/1z5DeOgn_0CZxadRM5SfdfGSV1UfgkbDnUfge8M-djUM/edit?usp=sharingg) (click on link to view) summarizing all the feedback we have received and our actions taken to address them.
-* Android app with drawing and reset function is developed. 
-* Risk Analysis has been done. The analysis can be found [here](https://drive.google.com/open?id=1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO).
-* We had two integration meetings with output team. Click [here](https://drive.google.com/drive/folders/1EBkIZeMerqrHnTHzfZM0X7Paddm5Tu38?usp=sharing) to for the minutes of integration meetings.
-* To more effectively track the progress of our project and work assigned to each team member, we created interactive sheets such as [action list](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing), [milestone tracker](https://docs.google.com/spreadsheets/d/1Gs3jpNLIOIzp9LHkx_a9XZvmUAc5WDXcSTUDubNdeIw/edit?usp=sharing) and [timeline tracker](https://docs.google.com/spreadsheets/d/1Wzz1CrSvFIW3_DlKV93lR2b0l7EzAkRV3A5If5ZLcCI/edit?usp=sharing).
-* We visited Questacon and discussed relevant issues with technology, design and maintenance team (click [here](https://drive.google.com/open?id=1e7EAtb0zLgqGCjFnDPgSJaEmhuzvVeCQrM0EL40atIU) for the trip log). Client has suggested some potential locations for the pixel bot exhibition.
-* Client's legal team is still working on the NDA and IP agreement.
-* We reached an agreement with the output team that C will be used for programming. The output team is looking to replace the microprocessor on existing robot model Arduino boards.
+* A feedback review [document](https://docs.google.com/document/d/1QRJ71fKhrbq_FRoYCzNYwjhC019ROj1h7DqxBQ1voTM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and actions taken to address them.
+* Click on the links to view our most up to date [system requirement document V2.1](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) and [system architecture document V3.0](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV). We will discuss the details of these documents with our client on 3th May.
+* All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
+* The team has signed the IP agreement and has received a confirmation from the dean of student. We are now waiting for the signature from ANU before we can forward the agreement to our client.
+* We are now in the process of preparing our handover document.
+
+
 
 
 ## Acknowledgement
