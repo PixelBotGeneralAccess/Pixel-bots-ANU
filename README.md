@@ -12,7 +12,7 @@ _*Our bots run on walls, like they know Kung Fu.*_
 * A feedback review [document](https://docs.google.com/document/d/1QRJ71fKhrbq_FRoYCzNYwjhC019ROj1h7DqxBQ1voTM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and actions taken to address them.
 * Click on the links to view our most up to date [system requirement document V2.1](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) and [system architecture document V3.0](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV). We will discuss the details of these documents with our client on 3th May.
 * All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
-* The team has signed the IP agreement and has received a confirmation from the dean of student. We are now waiting for the signature from ANU before we can forward the agreement to our client.
+* The team has signed the IP agreement has been signed and can be view [here](https://drive.google.com/drive/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09).
 * After much research and collaboration with the output team, we decided to choose Bluetooth as the communication tool between the software and hardware part of the system. Relevant research documents can be found [here](https://docs.google.com/document/d/1Xd52FfzE8CCT6KR1VAp7FKMdvjWYmW6_B3Rt2MJbEb8/edit).
 * Testing and validation of the system has been carried out. A report summarising the methods and resulting is coming out soon.
 * We are now in the process of preparing our handover document.
