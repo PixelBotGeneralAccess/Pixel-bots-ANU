@@ -35,7 +35,7 @@ The project is to build an interactive picture drawing display for Questacon’s
 ## Team Members and Communications
 | Name       |       Role     | Description  |
 | ---------------|-------------| --------------|
-| Boyi Chen     |Integration lead  | Overseas the project management exchanges information between two teams of the project |
+| Boyi Chen     |Integration Lead/Liaison Officer  | Overseas the project management exchanges information between two teams of the project; liaise with output team|
 | Ethan Stanbury      | Software Lead     |Overseas the software development and provides technical supports for the team|
 | Yuge Shi| Communicator/Software Assistant    | Communicates with output team and integrates both teams' work|
 |Mischa Rippon|App Developer| Develops an Android app for client| 
