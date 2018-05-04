@@ -13,7 +13,8 @@ _*Our bots run on walls, like they know Kung Fu.*_
 * Click on the links to view our most up to date [system requirement document V2.1](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) and [system architecture document V3.0](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV). We will discuss the details of these documents with our client on 3th May.
 * All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
 * The team has signed the IP agreement and has received a confirmation from the dean of student. We are now waiting for the signature from ANU before we can forward the agreement to our client.
-* After much research and discussion with the output team, we decided to choose Bluetooth as the communication tool between the software and hardware part of the system. Relevant research documents can be found [here](https://docs.google.com/document/d/1Xd52FfzE8CCT6KR1VAp7FKMdvjWYmW6_B3Rt2MJbEb8/edit).
+* After much research and collaboration with the output team, we decided to choose Bluetooth as the communication tool between the software and hardware part of the system. Relevant research documents can be found [here](https://docs.google.com/document/d/1Xd52FfzE8CCT6KR1VAp7FKMdvjWYmW6_B3Rt2MJbEb8/edit).
+* Testing and validation of the system has been carried out. A report summarising the methods and resulting is coming out soon.
 * We are now in the process of preparing our handover document.
 
 
@@ -91,12 +92,17 @@ The source code is stored at a private Github repository. Since our project host
 If you are a member of this project (or a member of the shadow team) and wish to access the code, please email us with the contact information available at the bottom of this page.
 
 ### Google Drive
-1. [Root Folder](https://drive.google.com/drive/folders/1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE?usp=sharing) is where we store all the documentation of the project.
-2. [Meeting Minutes](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
-3. [Decision Making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) is where we put decision/direction-making documents.
-4. [Newsletter](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to client. 
-5. [System Analysis](https://drive.google.com/drive/folders/1XArUTUV-0j7SljJ2G1VgrZgR6X-zXcWt?usp=sharing) is a folder where we store the design analysis for the project, including stakeholder analysis, functional diagram, requirements, milestones etc
-6. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
+0. [Root Folder](https://drive.google.com/drive/folders/1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE?usp=sharing)
+1. [System Architecture](https://drive.google.com/drive/u/1/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) is a folder where we store all versions of system requirement document and system architecture document.
+2. [Meetings](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
+3. [Decision Making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) contains all  decision/direction-making documents.
+4. [Newsletters](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to stakeholders. 
+5. [Legal](https://drive.google.com/drive/u/1/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09) contains all the relevant legal documents of the project (the folder contains only IP agreement at the moment).
+6. [System Analysis](https://drive.google.com/drive/folders/1XArUTUV-0j7SljJ2G1VgrZgR6X-zXcWt?usp=sharing) is a folder where we store the system analysis for the project, including risk analysis, stakeholder analysis, functional diagram, requirements, milestones etc.
+7. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
+8. [Feedback](https://drive.google.com/drive/u/1/folders/1xj15evpT_q9hndd0oQx1C0oKhB4Ezt2v) Contains the summaries of our feedback from each audit and corresponding reflections and actions.
+8. [Presentation Slides](https://drive.google.com/drive/u/1/folders/1wineYSnuzVMzBESiNyQyq8Y1PDZ0yfRO) Presentation slides for audits -- also check out the slides for our awesome presentation at [Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit#slide=id.g35f391192_00)!
+
 
 ### Resource Identification
 | Cost Account       |       Resources     | Cost/Source  |
@@ -111,7 +117,7 @@ If you are a member of this project (or a member of the shadow team) and wish to
   
 
 ### Potential Cost
-The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. For our input team, we don't have significant cost.
+The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. The input team has been granted $300 budget for working on integration with the output team. The email of budget application can be view [here](https://drive.google.com/drive/u/1/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09).
 
 ### Tools for software development (tentative)
 The software development tools depends on the board using on our robots. Here are some potential development tools for us to consider:
