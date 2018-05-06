@@ -10,8 +10,8 @@ _*Our bots run on walls, like they know Kung Fu.*_
 
 ## What's New
 * A [feedback review document](https://docs.google.com/document/d/1QRJ71fKhrbq_FRoYCzNYwjhC019ROj1h7DqxBQ1voTM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and actions taken to address them.
-* Click on the links to view our most up to date [system requirement document V2.1](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) and [system architecture document V3.0](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV). We will discuss the details of these documents with our client on 3th May.
-* All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
+* Click on the links to view our most up to date [system requirement document V2.2](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) and [system architecture document V3.2](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing). We will discuss the details of these documents with our client on 3th May.
+* All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
 * The [IP agreement](https://drive.google.com/drive/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09) has been signed with the client and ANU.
 * After much research and collaboration with the output team, we decided to choose Bluetooth as the communication tool between the software and hardware part of the system. Relevant [research documents](https://docs.google.com/document/d/1Xd52FfzE8CCT6KR1VAp7FKMdvjWYmW6_B3Rt2MJbEb8/edit) and the [decision making document](https://docs.google.com/document/d/1ARAgpPJOfbf2vyUxEX8S8rMJWUe8ctFvwgx6kJ2IHx4/edit) are available via the link.
 * Testing and validation of the system has been carried out. A report summarising the methods and resulting is coming out soon.
@@ -48,14 +48,24 @@ Our team uses Discord, Slack and Facebook Messenger for communication, and uses 
 We use email as our communication method with the Client representative.
 
 ## Deliverables
-Three main deliverables are identified in our project:
+Four main deliverables are identified in our project:
 1. **User Interface** that allows users to draw shapes by coloring the pixels and can run on Samsung tablet provided by client;
-2. **Algorithm** that plans and controls movements of the robot based on input to the App;
-3. **Relevant documentations** with system analysis and requirement definitions to support all decisions made. The information shall suffice for a smooth handover.
+
+[<img src="images/demo_thumbnail.png" width="180" align="right">](https://youtu.be/Gy15_G98JtM)
+2. **Path finding algorithm** that plans and controls movements of the robot based on input to the App;
+3. **Relevant documentations** with system analysis and requirement definitions to support all decisions made;
+4. **Handover document** includes sufficient information and details for the future project group.
+
+### Work Progress
+* Click on the thumbnail to the right to view a video-demo of our work on the **User Interface** and **Path finding algorithm**;
+* **Relevant documentations** including system architecture document and system requirements document can be found via the link [here](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV);
+* **Handover document** can be found [here](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) (the folder is still empty at the moment, but relevant documents will be coming soon!).
+
+
 
 ## Project Requirements
 
-The newest version of project requirements can be found [here](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV).
+The newest version of project requirements can be found [here](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing).
 
 
 
@@ -96,12 +106,13 @@ If you are a member of this project (or a member of the shadow team) and wish to
 1. [System Architecture](https://drive.google.com/drive/u/1/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV) is a folder where we store all versions of system requirement document and system architecture document.
 2. [Meetings](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing) is where we put our meeting minutes for all meetings.
 3. [Decision Making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) contains all  decision/direction-making documents.
-4. [Newsletters](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to stakeholders. 
+4. [Newsletters](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing) includes copies of newsletter sent to stakeholders.
 5. [Legal](https://drive.google.com/drive/u/1/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09) contains all the relevant legal documents of the project (the folder contains only IP agreement at the moment).
 6. [System Analysis](https://drive.google.com/drive/folders/1XArUTUV-0j7SljJ2G1VgrZgR6X-zXcWt?usp=sharing) is a folder where we store the system analysis for the project, including risk analysis, stakeholder analysis, functional diagram, requirements, milestones etc.
 7. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
 8. [Feedback](https://drive.google.com/drive/u/1/folders/1xj15evpT_q9hndd0oQx1C0oKhB4Ezt2v) Contains the summaries of our feedback from each audit and corresponding reflections and actions.
 8. [Presentation Slides](https://drive.google.com/drive/u/1/folders/1wineYSnuzVMzBESiNyQyq8Y1PDZ0yfRO) Presentation slides for audits -- also check out the slides for our awesome presentation at [Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit#slide=id.g35f391192_00)!
+9. [Handover](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) includes the documentations needed for transitioning the project to the future TechLauncher team.
 
 
 ### Resource Identification
