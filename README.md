@@ -111,7 +111,7 @@ If you are a member of this project (or a member of the shadow team) and wish to
 7. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
 8. [Feedback](https://drive.google.com/drive/u/1/folders/1xj15evpT_q9hndd0oQx1C0oKhB4Ezt2v) Contains the summaries of our feedback from each audit and corresponding reflections and actions.
 8. [Presentation Slides](https://drive.google.com/drive/u/1/folders/1wineYSnuzVMzBESiNyQyq8Y1PDZ0yfRO) Presentation slides for audits -- also check out the slides for our awesome presentation at [Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit#slide=id.g35f391192_00)!
-9. [Handover](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) includes the documentations needed for transitioning the project to the future TechLauncher team.
+9. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) includes the documentations needed for transitioning the project to the future TechLauncher team.
 
 
 ### Resource Identification
