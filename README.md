@@ -10,12 +10,12 @@ _*Our bots run on walls, like they know Kung Fu.*_
 
 ## What's New
 * A [feedback review document](https://docs.google.com/document/d/1QRJ71fKhrbq_FRoYCzNYwjhC019ROj1h7DqxBQ1voTM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and actions taken to address them.
-* Click on the links to view our most up to date [system requirement document V2.2](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) and [system architecture document V3.2](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing). We will discuss the details of these documents with our client on 3th May.
+* Click on the links to view our most up to date [system requirement document V2.2](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) and [system architecture document V3.2](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing). We have discussed the details of these documents with our clients.
 * All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
 * The [IP agreement](https://drive.google.com/drive/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09) has been signed with the client and ANU.
 * After much research and collaboration with the output team, we decided to choose Bluetooth as the communication tool between the software and hardware part of the system. Relevant [research documents](https://docs.google.com/document/d/1Xd52FfzE8CCT6KR1VAp7FKMdvjWYmW6_B3Rt2MJbEb8/edit) and the [decision making document](https://docs.google.com/document/d/1ARAgpPJOfbf2vyUxEX8S8rMJWUe8ctFvwgx6kJ2IHx4/edit) are available via the link.
-* Testing and validation of the system has been carried out. A report summarising the methods and resulting is coming out soon.
-* We are now in the process of preparing our handover document.
+* Handover document is ready in this folder [here](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH).
+* Testing and validation of the system has been carried out. This will be included in the next version of system architecture document (coming very soon!)
 
 
 
@@ -58,7 +58,7 @@ Four main deliverables are identified in our project:
 ### Work Progress
 * Click on the thumbnail to the right to view a video-demo of our work on the **User Interface** and **Path finding algorithm**;
 * **Relevant documentations** including system architecture document and system requirements document can be found via the link [here](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV);
-* **Handover document** can be found [here](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) (the folder is still empty at the moment, but relevant documents will be coming soon!).
+* **Handover document** can be found [here](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH).
 
 
 
@@ -111,7 +111,7 @@ If you are a member of this project (or a member of the shadow team) and wish to
 7. [Research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing) contains the information gathered from technical research that helps us to make relevant design decisions.
 8. [Feedback](https://drive.google.com/drive/u/1/folders/1xj15evpT_q9hndd0oQx1C0oKhB4Ezt2v) Contains the summaries of our feedback from each audit and corresponding reflections and actions.
 8. [Presentation Slides](https://drive.google.com/drive/u/1/folders/1wineYSnuzVMzBESiNyQyq8Y1PDZ0yfRO) Presentation slides for audits -- also check out the slides for our awesome presentation at [Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit#slide=id.g35f391192_00)!
-9. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) includes the documentations needed for transitioning the project to the future TechLauncher team.
+9. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) includes information needed for transitioning the project to the future TechLauncher team.
 
 
 ### Resource Identification
