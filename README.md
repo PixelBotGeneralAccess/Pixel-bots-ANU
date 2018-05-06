@@ -148,9 +148,12 @@ We use following tools to document and manage our progress:
 Our team has expressed our concerns about NDA and IP agreement with client. Doug is going to consult the legal team at Questacon. 
 Client requires that the repository to be private (not open to public). The repository will be available for all stakeholders mentioned from previous **Stakeholders** section. 
 
+## Questions?
+If you have any suggestion, feedback or question regarding the project, click [here](https://docs.google.com/forms/d/e/1FAIpQLSceCwtGpNL_yDch6dBzX1N7aScqBdfg2x2ILBdn8r0XkJZj6w/viewform?usp=sf_link) to get in touch! 
+
+
 ## Contact
 If you are a member within any stakeholder groups and don't have access to any links above, please contact Boyi Chen by emaling  u5794300@anu.edu.au or Ethan Stanbury u6048363@anu.edu.au
-
 
 
 
