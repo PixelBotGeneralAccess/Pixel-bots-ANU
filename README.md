@@ -9,7 +9,7 @@ _*Violets are blue.*_
 _*Our bots run on walls, like they know Kung Fu.*_
 
 ## What's New
-* Have a look at our [poster](https://drive.google.com/drive/folders/1JHoB5Bd2yHia9Jg5V82wV7BwvhNvdjXE) for TechLauncher showcase!
+* Have a look at our [poster](https://drive.google.com/file/d/1hKdcD0yCZbGAHzWVFTsYSo2DUDYyX4nm/view?usp=sharing) for TechLauncher showcase!
 * Click on the links to view our most up to date [system requirement document V2.2](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) and [system architecture document V3.2](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing). We have discussed the details of these documents with our clients.
 * [Handover document](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) is ready to go!
 * A [feedback review document](https://docs.google.com/document/d/1QRJ71fKhrbq_FRoYCzNYwjhC019ROj1h7DqxBQ1voTM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and actions taken to address them.
