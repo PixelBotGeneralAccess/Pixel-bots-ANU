@@ -49,9 +49,8 @@ We use email as our communication method with the Client representative.
 
 ## Deliverables
 Four main deliverables are identified in our project:
-1. **User Interface** that allows users to draw shapes by coloring the pixels and can run on Samsung tablet provided by client;
-
 [<img src="images/demo_thumbnail.png" width="180" align="right">](https://youtu.be/Gy15_G98JtM)
+1. **User Interface** that allows users to draw shapes by coloring the pixels and can run on Samsung tablet provided by client;
 2. **Path finding algorithm** that plans and controls movements of the robot based on input to the App;
 3. **Relevant documentations** with system analysis and requirement definitions to support all decisions made;
 4. **Handover document** includes sufficient information and details for the future project group.
