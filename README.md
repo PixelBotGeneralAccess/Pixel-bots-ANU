@@ -12,18 +12,20 @@ _*Our bots run on walls, like they know Kung Fu.*_
 Here we provide shortcuts to some of the documents you might want to take a look at when marking us, categorised following the marking criteria (but hey feel free to poke around and look at everything else too!):
 
 * **Output Value:** Check out our:
-1. [video demonstration](https://youtu.be/Gy15_G98JtM): demonstration of the functionalities of our app, our algorithm and how the simulation works;
-2. [system architecture document](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing): understand how each part of the system interacts with each other, how our code implements these interactions and results of testing;
-3. [system requirement document](https://drive.google.com/file/d/1Dxt-UdofE8Q2vgthC9IOMJ9RB7_LB3za/view?usp=sharing): requirements for the entire project (whole year) and also for half-project (this semester);
-4. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH?usp=sharing): contains information the next team needs to continue working on the project (start from README!)
-5. [Risk analysis and assessment](https://drive.google.com/drive/folders/1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO?usp=sharing): this is done following the risk assessment template provided by our client;
+    1. [Video demonstration](https://youtu.be/Gy15_G98JtM): demonstration of the functionalities of our app, our algorithm and how the simulation works;
+    2. [System architecture document](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing): understand how each part of the system interacts with each other, how our code implements these interactions and results of testing;
+    3. [System requirement document](https://drive.google.com/file/d/1Dxt-UdofE8Q2vgthC9IOMJ9RB7_LB3za/view?usp=sharing): requirements for the entire project (whole year) and also for half-project (this semester);
+    4. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH?usp=sharing): contains information the next team needs to continue working on the project (start from README!)
+    5. [Risk analysis and assessment](https://drive.google.com/drive/folders/1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO?usp=sharing): this is done following the risk assessment template provided by our client;
 
 * **Communication with Stakeholders:** Have a look at:
-1. [Communication Plan](https://drive.google.com/file/d/1nHCfSwTUonVbyTVUjxx6lX0nWyRv0oHN/view?usp=sharing): a Google sheet documenting how we manage different stakeholders;
-2. [Newsletters](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing): fortnightly updated newsletters that are sent to all stakeholders;
-3. Others: [meeting notes](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing), [research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing).
+    1. [Communication Plan](https://drive.google.com/file/d/1nHCfSwTUonVbyTVUjxx6lX0nWyRv0oHN/view?usp=sharing): a Google sheet documenting how we manage different stakeholders;
+    2. [Newsletters](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing): fortnightly updated newsletters that are sent to all stakeholders;
+    3. Others: [meeting notes](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing), [research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing).
 
-* **Teamwork:** Check out our [action list](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing) (you can click on tabs with our names to view individual contributions) and [commit history of code  repository](https://github.com/EthanStanbury/Pixel_Bot_Dev_Space/commits/master) (please let us know if you are marking and don't have access to the private repository! Find our emails at the "contact us" section down below)
+* **Teamwork:** Check out our:
+    1. [Action list](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing) (you can click on tabs with our names to view individual contributions);
+    2. [Commit history of code repository](https://github.com/EthanStanbury/Pixel_Bot_Dev_Space/commits/master) (please let us know if you are marking and don't have access to the private repository! Find our emails at the "contact us" section down below)
 
 * **Decision making:** All [decision making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) documents can be found following the link;
 
