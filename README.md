@@ -8,6 +8,34 @@ _*Violets are blue.*_
 
 _*Our bots run on walls, like they know Kung Fu.*_
 
+## Guide to Audit 3 Marking: Where to look?
+Here we provide shortcuts to some of the documents you might want to take a look at when marking us, categorised following the marking criteria (but hey feel free to poke around and look at everything else too!):
+
+* **Output Value:** Check out our:
+1. [video demonstration](https://youtu.be/Gy15_G98JtM): demonstration of the functionalities of our app, our algorithm and how the simulation works;
+2. [system architecture document](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing): understand how each part of the system interacts with each other, how our code implements these interactions and results of testing;
+3. [system requirement document](https://drive.google.com/file/d/1Dxt-UdofE8Q2vgthC9IOMJ9RB7_LB3za/view?usp=sharing): requirements for the entire project (whole year) and also for half-project (this semester);
+4. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH?usp=sharing): contains information the next team needs to continue working on the project (start from README!)
+5. [Risk analysis and assessment](https://drive.google.com/drive/folders/1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO?usp=sharing): this is done following the risk assessment template provided by our client;
+
+* **Communication with Stakeholders:** Have a look at:
+1. [Communication Plan](https://drive.google.com/file/d/1nHCfSwTUonVbyTVUjxx6lX0nWyRv0oHN/view?usp=sharing): a Google sheet documenting how we manage different stakeholders;
+2. [Newsletters](https://drive.google.com/drive/folders/1EToszgO-uaHTGNZM59YEAgPQPGXhuRRP?usp=sharing): fortnightly updated newsletters that are sent to all stakeholders;
+3. Others: [meeting notes](https://drive.google.com/drive/folders/1z16to5gbgPwR7r7J1oEX23AFgIPY-90_?usp=sharing), [research](https://drive.google.com/drive/folders/1OZJTEvyMs4S_3DEgvfZYEpavSJ9zATzA?usp=sharing).
+
+* **Teamwork:** Check out our [action list](https://docs.google.com/spreadsheets/d/19gmH4mP4hD4nWEzPY1URRG5i9sr1kFOTp_vyLgnJJ1s/edit?usp=sharing) (you can click on tabs with our names to view individual contributions) and [commit history of code  repository](https://github.com/EthanStanbury/Pixel_Bot_Dev_Space/commits/master) (please let us know if you are marking and don't have access to the private repository! Find our emails at the "contact us" section down below)
+
+* **Decision making:** All [decision making](https://drive.google.com/drive/folders/1StTizrKvznZPgQn_XwqhJgjMThFtUY7W?usp=sharing) documents can be found following the link;
+
+* **Reflections:** We are hoping all items above have shown that we have reflected on our feedback, but here are the [feedback reports](https://drive.google.com/drive/folders/1xj15evpT_q9hndd0oQx1C0oKhB4Ezt2v?usp=sharing) we did for audit 1 and 2.
+
+* **Other things we are pretty happy with:**  Here's a link to our [poster](https://drive.google.com/file/d/1hKdcD0yCZbGAHzWVFTsYSo2DUDYyX4nm/view?usp=sharing) and the slides for our [presentation @ Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit?usp=sharing) during the semester break.
+
+
+
+
+
+
 ## What's New
 * Have a look at our [poster](https://drive.google.com/file/d/1hKdcD0yCZbGAHzWVFTsYSo2DUDYyX4nm/view?usp=sharing) for TechLauncher showcase!
 * Click on the links to view our most up to date [system requirement document V2.2](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) and [system architecture document V3.2](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing). We have discussed the details of these documents with our clients.
@@ -22,17 +50,17 @@ _*Our bots run on walls, like they know Kung Fu.*_
 
 
 ## Acknowledgement
-Here to acknowledge the great work of the ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on as template. 
+Here to acknowledge the great work of the ANU FIFTY50 Online Mentoring Platform done by Nitika and her team, where we developed our landing page based on as template.
 
 
 ## Background & Questacon's Vision
-Questacon is The National Science and Technology Centre located in Canberra, Australia. The facility, administered within the Australian Government's Department of Industry, Innovation and Science, is home to a range of innovative exhibits, shows, and activities designed appealing to people of all ages. 
+Questacon is The National Science and Technology Centre located in Canberra, Australia. The facility, administered within the Australian Government's Department of Industry, Innovation and Science, is home to a range of innovative exhibits, shows, and activities designed appealing to people of all ages.
 
 Questacon seeks to promote awareness and interests in science and technology within the community. We are providing a system that uses robotics to create compelling visual displays for Questacon's audience to engage with.
 
 
 ## Introduction
-The project is to build an interactive picture drawing display for Questacon’s upcoming AI and Robotics exhibit. This will be done to highlight and emphasize swarm mechanics to an audience. The way that this exhibit will adhere to Questacon’s educational values will be by creating a picture made up of bots in front of the user, based on a picture drawn by the user. The pattern can be multi-coloured with a pixel art style. Once completed we hope to create an effect that could almost be considered ‘the picture coming to life’, due to the fast movement required to assemble the picture. With these features combined, it will create a fun and interactive display for people to use and enjoy. 
+The project is to build an interactive picture drawing display for Questacon’s upcoming AI and Robotics exhibit. This will be done to highlight and emphasize swarm mechanics to an audience. The way that this exhibit will adhere to Questacon’s educational values will be by creating a picture made up of bots in front of the user, based on a picture drawn by the user. The pattern can be multi-coloured with a pixel art style. Once completed we hope to create an effect that could almost be considered ‘the picture coming to life’, due to the fast movement required to assemble the picture. With these features combined, it will create a fun and interactive display for people to use and enjoy.
 
 ## Team Members and Communications
 | Name       |       Role     | Description  |
@@ -40,7 +68,7 @@ The project is to build an interactive picture drawing display for Questacon’s
 | Boyi Chen     |Integration Lead/Liaison Officer  | Overseas the project management exchanges information between two teams of the project; liaise with output team|
 | Ethan Stanbury      | Software Lead     |Overseas the software development and provides technical supports for the team|
 | Yuge Shi| Communicator/Software Assistant    | Communicates with output team and integrates both teams' work|
-|Mischa Rippon|App Developer| Develops an Android app for client| 
+|Mischa Rippon|App Developer| Develops an Android app for client|
 |Daniel Jang| Software Assistant| Assist and provide his technical expertise with the creation of the software|
 
 
@@ -56,7 +84,7 @@ Four main deliverables are identified in our project:
 3. **Relevant documentations** with system analysis and requirement definitions to support all decisions made;
 4. **Handover document** includes sufficient information and details for the future project group.
 
-### Work Progress
+### Work Progress of Deliverables
 * Click on the thumbnail to the right to view a video-demo of our work on the **User Interface** and **Path finding algorithm**;
 * **Relevant documentations** including system architecture document and system requirements document can be found via the link [here](https://drive.google.com/drive/folders/1huY71n9ufuH4K-tJtcv29GhEhsm8hToV);
 * **Handover document** can be found [here](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH).
@@ -96,8 +124,8 @@ We are logging all the actionable items and assigned team member in an action li
 
 
 ## Find Our Code & Documentations
-### GitHub Repository 
-The source code is stored at a private Github repository. Since our project host Questacon is funded by the Australian government, we regrettably cannot make the source code public due to the non-disclosure agreement. 
+### GitHub Repository
+The source code is stored at a private Github repository. Since our project host Questacon is funded by the Australian government, we regrettably cannot make the source code public due to the non-disclosure agreement.
 
 If you are a member of this project (or a member of the shadow team) and wish to access the code, please email us with the contact information available at the bottom of this page.
 
@@ -121,11 +149,11 @@ If you are a member of this project (or a member of the shadow team) and wish to
 | Communication    |Email, Slack, Facebook, Discord <br/> text messages and phone calls  | Individual phone plan |
 | Android app development     | Android Studio     | Free |
 | Path-planning algorithm development| Android Studio    | Free|
-| Control development |Platformio| Free| 
+| Control development |Platformio| Free|
 | App testing | Samsung tablet| Provided by client|
 | Simulation testing | Free robotics simulation software (TBA) | Free|
 | Proof-of-concept testing | Venue with vertical wall | Free (provided by ANU) |
-  
+
 
 ### Potential Cost
 The total budget for two teams of the Pixel Bots Project is around $30k ~ $40k. The input team has been granted $300 budget for working on integration with the output team. The email of budget application can be view [here](https://drive.google.com/drive/u/1/folders/1K_wjbPWELDtDg3B26GemB0hK_mUW_s09).
@@ -146,18 +174,12 @@ We use following tools to document and manage our progress:
 
 
 ### NDA and IP Agreement
-Our team has expressed our concerns about NDA and IP agreement with client. Doug is going to consult the legal team at Questacon. 
-Client requires that the repository to be private (not open to public). The repository will be available for all stakeholders mentioned from previous **Stakeholders** section. 
+Our team has expressed our concerns about NDA and IP agreement with client. Doug is going to consult the legal team at Questacon.
+Client requires that the repository to be private (not open to public). The repository will be available for all stakeholders mentioned from previous **Stakeholders** section.
 
 ## Questions?
-If you have any suggestion, feedback or question regarding the project, click [here](https://docs.google.com/forms/d/e/1FAIpQLSceCwtGpNL_yDch6dBzX1N7aScqBdfg2x2ILBdn8r0XkJZj6w/viewform?usp=sf_link) to get in touch! 
+If you have any suggestion, feedback or question regarding the project, click [here](https://docs.google.com/forms/d/e/1FAIpQLSceCwtGpNL_yDch6dBzX1N7aScqBdfg2x2ILBdn8r0XkJZj6w/viewform?usp=sf_link) to get in touch!
 
 
 ## Contact
 If you are a member within any stakeholder groups and don't have access to any links above, please contact Boyi Chen by emaling  u5794300@anu.edu.au or Ethan Stanbury u6048363@anu.edu.au
-
-
-
-
-
-
