@@ -8,8 +8,8 @@ _*Violets are blue.*_
 
 _*Our bots run on walls, like they know Kung Fu.*_
 
-## Guide to Audit 3 Marking: Where to look?
-Here we provide shortcuts to some of the documents you might want to take a look at when marking us, categorised following the marking criteria (but hey feel free to poke around and look at everything else too!):
+## Guide to Audit 3: Where to look?
+Here we provide shortcuts to some of the documents you might want to take a look at, categorised following different criteria:
 
 * **Output Value:** Check out our:
     1. [Video demonstration](https://youtu.be/Gy15_G98JtM): demonstration of the functionalities of our app, our algorithm and how the simulation works;
