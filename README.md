@@ -17,6 +17,7 @@ Here we provide shortcuts to some of the documents you might want to take a look
     3. [System requirement document](https://drive.google.com/file/d/1Dxt-UdofE8Q2vgthC9IOMJ9RB7_LB3za/view?usp=sharing): requirements for the entire project (whole year) and also for half-project (this semester);
     4. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH?usp=sharing): contains information the next team needs to continue working on the project (start from README!)
     5. [Risk analysis and assessment](https://drive.google.com/drive/folders/1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO?usp=sharing): this is done following the risk assessment template provided by our client;
+    6. [Test and validation document](https://drive.google.com/file/d/1RqTa2TYTnszbi1_z8_a3A-UbkwcDKg2p/view?usp=sharing): testing and validation of the system following the requirements.
 
 * **Communication with Stakeholders:** Have a look at:
     1. [Communication Plan](https://drive.google.com/file/d/1nHCfSwTUonVbyTVUjxx6lX0nWyRv0oHN/view?usp=sharing): a Google sheet documenting how we manage different stakeholders;
