@@ -13,7 +13,7 @@ Here we provide shortcuts to some of the documents you might want to take a look
 
 * **Output Value:** Check out our:
     1. [Video demonstration](https://youtu.be/Gy15_G98JtM): demonstration of the functionalities of our app, our algorithm and how the simulation works;
-    2. [System architecture document](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing): understand how each part of the system interacts with each other, how our code implements these interactions and results of testing;
+    2. [System architecture document](https://drive.google.com/file/d/1_Sw2Be5y1RK9ZH8agX-WyM0S6WEtsRtL/view?usp=sharing): understand how each part of the system interacts with each other, how our code implements these interactions and results of testing;
     3. [System requirement document](https://drive.google.com/file/d/1Dxt-UdofE8Q2vgthC9IOMJ9RB7_LB3za/view?usp=sharing): requirements for the entire project (whole year) and also for half-project (this semester);
     4. [Handover](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH?usp=sharing): contains information the next team needs to continue working on the project (start from README!)
     5. [Risk analysis and assessment](https://drive.google.com/drive/folders/1NQgS4U_VT7kHnt1vlVybv3BpBd7TGUHO?usp=sharing): this is done following the risk assessment template provided by our client;
@@ -40,7 +40,7 @@ Here we provide shortcuts to some of the documents you might want to take a look
 
 ## What's New
 * Have a look at our [poster](https://drive.google.com/file/d/1hKdcD0yCZbGAHzWVFTsYSo2DUDYyX4nm/view?usp=sharing) for TechLauncher showcase!
-* Click on the links to view our most up to date [system requirement document V2.2](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) and [system architecture document V3.2](https://drive.google.com/file/d/13vrHZaMsPBPYOs5jhmwqjvHBo2PcoQX1/view?usp=sharing). We have discussed the details of these documents with our clients.
+* Click on the links to view our most up to date [system requirement document V3.0](https://drive.google.com/file/d/1Dxt-UdofE8Q2vgthC9IOMJ9RB7_LB3za/view?usp=sharing) and [system architecture document V4.0](https://drive.google.com/file/d/1_Sw2Be5y1RK9ZH8agX-WyM0S6WEtsRtL/view?usp=sharing). We have discussed the details of these documents with our clients.
 * [Handover document](https://drive.google.com/drive/folders/1q34sMAMwYGskBlDQ8Hu0JiWgyiDqJrzH) is ready to go!
 * A [feedback review document](https://docs.google.com/document/d/1QRJ71fKhrbq_FRoYCzNYwjhC019ROj1h7DqxBQ1voTM/edit?usp=sharing) (click on link to view) summarizing all the feedback we have received and actions taken to address them.
 * All developments for the requirements for Semester 1 in [system requirement document](https://drive.google.com/file/d/1BdE4NJYw_VHYLdE_leM8fVlNHti82AZr/view?usp=sharing) are completed, including a functional user interface, AI path-finding algorithm based on A-star search and simulation.
