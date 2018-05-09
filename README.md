@@ -32,7 +32,7 @@ Here we provide shortcuts to some of the documents you might want to take a look
 
 * **Reflections:** We are hoping all items above have shown that we have reflected on our feedback, but here are the [feedback reports](https://drive.google.com/drive/folders/1xj15evpT_q9hndd0oQx1C0oKhB4Ezt2v?usp=sharing) we did for audit 1 and 2.
 
-* **Other things we are pretty happy with:**  Here's a link to our [poster](https://drive.google.com/file/d/1hKdcD0yCZbGAHzWVFTsYSo2DUDYyX4nm/view?usp=sharing) and the slides for our [presentation @ Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit?usp=sharing) during the semester break.
+* **Other things we are pretty happy with:** Shout out to _anu.cecs_ on instagram for posting such a [dashing photo](https://www.instagram.com/p/BiisN0bFaKY/?hl=en&taken-by=anu.cecs) of our team during the showcase! Also here's a link to our [poster](https://drive.google.com/file/d/1hKdcD0yCZbGAHzWVFTsYSo2DUDYyX4nm/view?usp=sharing) and the slides for our [presentation @ Imagineering](https://docs.google.com/presentation/d/1lOktqZ71xErSae1xCjubTJfBz2aVN18nDdpaLZj9elg/edit?usp=sharing) during the semester break. 
 
 
 
